@@ -1,2 +1,4 @@
-# durian
-Official Repository for Durian: Dual Reference-guided Portrait Animation with Attribute Transfer
+# Durian
+Official Repository for Durian: Dual Reference Image-Guided Portrait Animation with Attribute Transfer
+
+Coming Soon!
