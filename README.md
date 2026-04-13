@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/26a8e05b-060c-46d6-a7ca-c7e1287eda55
+
 <div align="center">
 
 # Durian: Dual Reference Image-Guided Portrait Animation with Attribute Transfer
